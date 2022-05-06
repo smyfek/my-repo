@@ -3,7 +3,6 @@ tacacs-server host 41.40.34.90
 tacacs-server host 41.47.2.90
 tacacs-server timeout 3
 tacacs-server directed-request
-tacacs-server key 0 ezd4fss8jfm4mjj8
 no tacacs-server host 10.28.36.18 
 no tacacs-server host 10.28.36.19 
 end
