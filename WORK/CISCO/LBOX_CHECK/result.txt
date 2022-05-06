@@ -1,0 +1,72 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1747NS01(config)#do sh int status | i BMS
+Gi1/0/44  (BMS-LBOX)         connected    1          a-full  a-100 10/100/1000BaseTX
+GB-1747NS01(config)#end
+GB-1747NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1782NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                connected    1          a-full  a-100 10/100/1000BaseTX
+GB-1782NS01(config)#end
+GB-1782NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1753NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1753NS01(config)#end
+GB-1753NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1629NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1629NS01(config)#end
+GB-1629NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1684NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1684NS01(config)#end
+GB-1684NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1714NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                connected    1          a-full  a-100 10/100/1000BaseTX
+GB-1714NS01(config)#end
+GB-1714NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1759NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                connected    1          a-full  a-100 10/100/1000BaseTX
+GB-1759NS01(config)#end
+GB-1759NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1668NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1668NS01(config)#end
+GB-1668NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1695NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1695NS01(config)#end
+GB-1695NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1700NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1700NS01(config)#end
+GB-1700NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1705NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                connected    1          a-full  a-100 10/100/1000BaseTX
+GB-1705NS01(config)#end
+GB-1705NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1652NS01(config)#do sh int status | i BMS
+Gi1/0/44  BMS                notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1652NS01(config)#end
+GB-1652NS01#

@@ -1,0 +1,136 @@
+[LGB1511-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1511-NWPRSW-P003>
+[LGB1741-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1741-NWPRSW-P003>
+[LGB1757-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1757-NWPRSW-P003>
+[LGB1811-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1811-NWPRSW-P003>
+[LGB1821-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1821-NWPRSW-P003>
+[LGB1836-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1836-NWPRSW-P003>
+[LGB1884-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1884-NWPRSW-P003>
+[LGB1882-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1882-NWPRSW-P003>
+[LGB1895-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/4                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/17                      down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/18                      up      up       OVEN vlan10 - OVEN vlan10
+<LGB1895-NWPRSW-P003>
+[LGB1649-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1649-NWPRSW-P003>
+[LGB1686-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1686-NWPRSW-P003>
+[LGB1872-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1872-NWPRSW-P003>
+[LGB1717-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1717-NWPRSW-P003>
+[LGB1773-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1773-NWPRSW-P003>
+[LGB1774-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/4                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/17                      down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/18                      down    down     OVEN vlan10 - OVEN vlan10
+<LGB1774-NWPRSW-P003>
+[LGB1903-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+<LGB1903-NWPRSW-P003>
+[LGB1921-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1921-NWPRSW-P003>
+[LGB1704-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+<LGB1704-NWPRSW-P003>
+[LGB1861-NWPRSW-P003]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+<LGB1861-NWPRSW-P003>
+[LGB1902-NWPRSW-P004]display interface description | i OVEN
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/4                       down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/17                      down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/18                      down    down     OVEN vlan10 - OVEN vlan10
+<LGB1902-NWPRSW-P004>

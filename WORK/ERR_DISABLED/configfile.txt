@@ -1,0 +1,6 @@
+do license save flash:license
+exit
+wr
+reload at 23:30
+y
+!

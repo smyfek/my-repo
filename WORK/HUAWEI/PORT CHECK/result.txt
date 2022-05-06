@@ -1,0 +1,3944 @@
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1820-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1820-NWPRSW-P002]return
+<LGB1820-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0602-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0602-NWPRSW-P002]return
+<LGB0602-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0978-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0978-NWPRSW-P002]return
+<LGB0978-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1760-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1760-NWPRSW-P002]return
+<LGB1760-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1956-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1956-NWPRSW-P002]return
+<LGB1956-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0737-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0737-NWPRSW-P002]return
+<LGB0737-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1752-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1752-NWPRSW-P002]return
+<LGB1752-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0403-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0403-NWPRSW-P002]return
+<LGB0403-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1908-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1908-NWPRSW-P002]return
+<LGB1908-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1380-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1380-NWPRSW-P002]return
+<LGB1380-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1064-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1064-NWPRSW-P002]return
+<LGB1064-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1338-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1338-NWPRSW-P002]return
+<LGB1338-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1386-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1386-NWPRSW-P002]return
+<LGB1386-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1754-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1754-NWPRSW-P002]return
+<LGB1754-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1135-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1135-NWPRSW-P002]return
+<LGB1135-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1458-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1458-NWPRSW-P002]return
+<LGB1458-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1124-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1124-NWPRSW-P002]return
+<LGB1124-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1885-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1885-NWPRSW-P002]return
+<LGB1885-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0399-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0399-NWPRSW-P002]return
+<LGB0399-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1946-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1946-NWPRSW-P002]return
+<LGB1946-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1792-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1792-NWPRSW-P002]return
+<LGB1792-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1453-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1453-NWPRSW-P002]return
+<LGB1453-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0395-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0395-NWPRSW-P002]return
+<LGB0395-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0951-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0951-NWPRSW-P002]return
+<LGB0951-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1918-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1918-NWPRSW-P002]return
+<LGB1918-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0815-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0815-NWPRSW-P002]return
+<LGB0815-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1900-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+[LGB1900-NWPRSW-P002]return
+<LGB1900-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0634-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0634-NWPRSW-P002]return
+<LGB0634-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1344-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1344-NWPRSW-P002]return
+<LGB1344-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0843-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0843-NWPRSW-P002]return
+<LGB0843-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1709-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1709-NWPRSW-P002]return
+<LGB1709-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0836-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0836-NWPRSW-P002]return
+<LGB0836-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1412-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1412-NWPRSW-P002]return
+<LGB1412-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0853-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0853-NWPRSW-P002]return
+<LGB0853-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0295-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0295-NWPRSW-P002]return
+<LGB0295-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0575-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0575-NWPRSW-P002]return
+<LGB0575-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1928-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1928-NWPRSW-P002]return
+<LGB1928-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1033-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1033-NWPRSW-P002]return
+<LGB1033-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0305-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0305-NWPRSW-P002]return
+<LGB0305-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0826-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0826-NWPRSW-P002]return
+<LGB0826-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0519-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0519-NWPRSW-P002]return
+<LGB0519-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1452-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1452-NWPRSW-P002]return
+<LGB1452-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0391-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0391-NWPRSW-P002]return
+<LGB0391-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1016-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1016-NWPRSW-P002]return
+<LGB1016-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1917-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+[LGB1917-NWPRSW-P002]return
+<LGB1917-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1912-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1912-NWPRSW-P002]return
+<LGB1912-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0019-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0019-NWPRSW-P002]return
+<LGB0019-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1929-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1929-NWPRSW-P002]return
+<LGB1929-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1822-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+[LGB1822-NWPRSW-P002]return
+<LGB1822-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0599-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0599-NWPRSW-P002]return
+<LGB0599-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1138-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1138-NWPRSW-P002]return
+<LGB1138-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1793-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1793-NWPRSW-P002]return
+<LGB1793-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1509-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1509-NWPRSW-P002]return
+<LGB1509-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1454-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1454-NWPRSW-P002]return
+<LGB1454-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1767-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1767-NWPRSW-P002]return
+<LGB1767-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1984-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1984-NWPRSW-P002]return
+<LGB1984-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1708-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1708-NWPRSW-P002]return
+<LGB1708-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1301-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1301-NWPRSW-P002]return
+<LGB1301-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0738-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0738-NWPRSW-P002]return
+<LGB0738-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1462-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1462-NWPRSW-P002]return
+<LGB1462-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1096-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1096-NWPRSW-P002]return
+<LGB1096-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1032-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1032-NWPRSW-P002]return
+<LGB1032-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1524-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1524-NWPRSW-P002]return
+<LGB1524-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0629-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0629-NWPRSW-P002]return
+<LGB0629-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1845-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1845-NWPRSW-P002]return
+<LGB1845-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1525-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1525-NWPRSW-P002]return
+<LGB1525-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1898-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1898-NWPRSW-P002]return
+<LGB1898-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0751-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0751-NWPRSW-P002]return
+<LGB0751-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1706-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1706-NWPRSW-P002]return
+<LGB1706-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1248-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1248-NWPRSW-P002]return
+<LGB1248-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1413-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1413-NWPRSW-P002]return
+<LGB1413-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1895-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1895-NWPRSW-P002]return
+<LGB1895-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1327-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1327-NWPRSW-P002]return
+<LGB1327-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1285-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1285-NWPRSW-P002]return
+<LGB1285-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1821-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1821-NWPRSW-P002]return
+<LGB1821-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1859-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1859-NWPRSW-P002]return
+<LGB1859-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1645-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1645-NWPRSW-P002]return
+<LGB1645-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1119-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1119-NWPRSW-P002]return
+<LGB1119-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1029-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1029-NWPRSW-P002]return
+<LGB1029-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1379-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1379-NWPRSW-P002]return
+<LGB1379-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1161-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1161-NWPRSW-P002]return
+<LGB1161-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1506-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1506-NWPRSW-P002]return
+<LGB1506-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1827-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1827-NWPRSW-P002]return
+<LGB1827-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1741-NWPRSW-P002]return
+<LGB1741-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1910-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1910-NWPRSW-P002]return
+<LGB1910-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1415-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1415-NWPRSW-P002]return
+<LGB1415-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1711-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1711-NWPRSW-P002]return
+<LGB1711-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0075-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0075-NWPRSW-P002]return
+<LGB0075-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1970-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1970-NWPRSW-P002]return
+<LGB1970-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0838-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0838-NWPRSW-P002]return
+<LGB0838-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1062-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1062-NWPRSW-P002]return
+<LGB1062-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0484-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0484-NWPRSW-P002]return
+<LGB0484-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1136-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1136-NWPRSW-P002]return
+<LGB1136-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1649-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1649-NWPRSW-P002]return
+<LGB1649-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1825-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1825-NWPRSW-P002]return
+<LGB1825-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1848-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1848-NWPRSW-P002]return
+<LGB1848-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1930-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1930-NWPRSW-P002]return
+<LGB1930-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0869-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0869-NWPRSW-P002]return
+<LGB0869-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1681-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      up      up       DRS
+[LGB1681-NWPRSW-P002]return
+<LGB1681-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1155-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1155-NWPRSW-P002]return
+<LGB1155-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0835-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0835-NWPRSW-P002]return
+<LGB0835-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1811-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     
+[LGB1811-NWPRSW-P002]return
+<LGB1811-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0471-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0471-NWPRSW-P002]return
+<LGB0471-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1905-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1905-NWPRSW-P002]return
+<LGB1905-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1941-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1941-NWPRSW-P002]return
+<LGB1941-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1106-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1106-NWPRSW-P002]return
+<LGB1106-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1442-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1442-NWPRSW-P002]return
+<LGB1442-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0899-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0899-NWPRSW-P002]return
+<LGB0899-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1867-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1867-NWPRSW-P002]return
+<LGB1867-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1346-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1346-NWPRSW-P002]return
+<LGB1346-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0985-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0985-NWPRSW-P002]return
+<LGB0985-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1976-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1976-NWPRSW-P002]return
+<LGB1976-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1242-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1242-NWPRSW-P002]return
+<LGB1242-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0274-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0274-NWPRSW-P002]return
+<LGB0274-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1909-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1909-NWPRSW-P002]return
+<LGB1909-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1186-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1186-NWPRSW-P002]return
+<LGB1186-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0844-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0844-NWPRSW-P002]return
+<LGB0844-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0184-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0184-NWPRSW-P002]return
+<LGB0184-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1482-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1482-NWPRSW-P002]return
+<LGB1482-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0324-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0324-NWPRSW-P002]return
+<LGB0324-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1757-NWPRSW-P002]return
+<LGB1757-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1421-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1421-NWPRSW-P002]return
+<LGB1421-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1416-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1416-NWPRSW-P002]return
+<LGB1416-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1915-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1915-NWPRSW-P002]return
+<LGB1915-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1872-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1872-NWPRSW-P002]return
+<LGB1872-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0045-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0045-NWPRSW-P002]return
+<LGB0045-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0781-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0781-NWPRSW-P002]return
+<LGB0781-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1511-NWPRSW-P002]return
+<LGB1511-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1994-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1994-NWPRSW-P002]return
+<LGB1994-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1773-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     DRS/RVM machine
+[LGB1773-NWPRSW-P002]return
+<LGB1773-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1424-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1424-NWPRSW-P002]return
+<LGB1424-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1937-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1937-NWPRSW-P002]return
+<LGB1937-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1394-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1394-NWPRSW-P002]return
+<LGB1394-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1317-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1317-NWPRSW-P002]return
+<LGB1317-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0455-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0455-NWPRSW-P002]return
+<LGB0455-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0198-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0198-NWPRSW-P002]return
+<LGB0198-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0366-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0366-NWPRSW-P002]return
+<LGB0366-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1151-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1151-NWPRSW-P002]return
+<LGB1151-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1869-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1869-NWPRSW-P002]return
+<LGB1869-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1265-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1265-NWPRSW-P002]return
+<LGB1265-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0281-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0281-NWPRSW-P002]return
+<LGB0281-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1357-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1357-NWPRSW-P002]return
+<LGB1357-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1794-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1794-NWPRSW-P002]return
+<LGB1794-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1656-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1656-NWPRSW-P002]return
+<LGB1656-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1103-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1103-NWPRSW-P002]return
+<LGB1103-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0513-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0513-NWPRSW-P002]return
+<LGB0513-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1427-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1427-NWPRSW-P002]return
+<LGB1427-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1877-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1877-NWPRSW-P002]return
+<LGB1877-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1455-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1455-NWPRSW-P002]return
+<LGB1455-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0239-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0239-NWPRSW-P002]return
+<LGB0239-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1092-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1092-NWPRSW-P002]return
+<LGB1092-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1903-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1903-NWPRSW-P002]return
+<LGB1903-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1353-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1353-NWPRSW-P002]return
+<LGB1353-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0162-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0162-NWPRSW-P002]return
+<LGB0162-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0133-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0133-NWPRSW-P002]return
+<LGB0133-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0730-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0730-NWPRSW-P002]return
+<LGB0730-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1408-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1408-NWPRSW-P002]return
+<LGB1408-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1803-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1803-NWPRSW-P002]return
+<LGB1803-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1160-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1160-NWPRSW-P002]return
+<LGB1160-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1893-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1893-NWPRSW-P002]return
+<LGB1893-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0827-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0827-NWPRSW-P002]return
+<LGB0827-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1651-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1651-NWPRSW-P002]return
+<LGB1651-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0821-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0821-NWPRSW-P002]return
+<LGB0821-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0461-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0461-NWPRSW-P002]return
+<LGB0461-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1813-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1813-NWPRSW-P002]return
+<LGB1813-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1882-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     KVM Rack - KVM Rack
+[LGB1882-NWPRSW-P002]return
+<LGB1882-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1431-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1431-NWPRSW-P002]return
+<LGB1431-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1749-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1749-NWPRSW-P002]return
+<LGB1749-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1717-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1717-NWPRSW-P002]return
+<LGB1717-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1217-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1217-NWPRSW-P002]return
+<LGB1217-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1682-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1682-NWPRSW-P002]return
+<LGB1682-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1901-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1901-NWPRSW-P002]return
+<LGB1901-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1334-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1334-NWPRSW-P002]return
+<LGB1334-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1067-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1067-NWPRSW-P002]return
+<LGB1067-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0564-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0564-NWPRSW-P002]return
+<LGB0564-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1863-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1863-NWPRSW-P002]return
+<LGB1863-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1798-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1798-NWPRSW-P002]return
+<LGB1798-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1721-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1721-NWPRSW-P002]return
+<LGB1721-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1237-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1237-NWPRSW-P002]return
+<LGB1237-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1748-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1748-NWPRSW-P002]return
+<LGB1748-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1926-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1926-NWPRSW-P002]return
+<LGB1926-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1104-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1104-NWPRSW-P002]return
+<LGB1104-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0459-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0459-NWPRSW-P002]return
+<LGB0459-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1995-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1995-NWPRSW-P002]return
+<LGB1995-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1932-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1932-NWPRSW-P002]return
+<LGB1932-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1914-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1914-NWPRSW-P002]return
+<LGB1914-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0577-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0577-NWPRSW-P002]return
+<LGB0577-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1704-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1704-NWPRSW-P002]return
+<LGB1704-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1295-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1295-NWPRSW-P002]return
+<LGB1295-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1806-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1806-NWPRSW-P002]return
+<LGB1806-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1800-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1800-NWPRSW-P002]return
+<LGB1800-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1788-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1788-NWPRSW-P002]return
+<LGB1788-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1755-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1755-NWPRSW-P002]return
+<LGB1755-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1902-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1902-NWPRSW-P002]return
+<LGB1902-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1922-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1922-NWPRSW-P002]return
+<LGB1922-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1855-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1855-NWPRSW-P002]return
+<LGB1855-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1865-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1865-NWPRSW-P002]return
+<LGB1865-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1971-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1971-NWPRSW-P002]return
+<LGB1971-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1819-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1819-NWPRSW-P002]return
+<LGB1819-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0877-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0877-NWPRSW-P002]return
+<LGB0877-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1836-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1836-NWPRSW-P002]return
+<LGB1836-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1075-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1075-NWPRSW-P002]return
+<LGB1075-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0772-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0772-NWPRSW-P002]return
+<LGB0772-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1921-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1921-NWPRSW-P002]return
+<LGB1921-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1535-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1535-NWPRSW-P002]return
+<LGB1535-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1407-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1407-NWPRSW-P002]return
+<LGB1407-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0561-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0561-NWPRSW-P002]return
+<LGB0561-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0421-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0421-NWPRSW-P002]return
+<LGB0421-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0206-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0206-NWPRSW-P002]return
+<LGB0206-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1383-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1383-NWPRSW-P002]return
+<LGB1383-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1391-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1391-NWPRSW-P002]return
+<LGB1391-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0520-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0520-NWPRSW-P002]return
+<LGB0520-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0380-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0380-NWPRSW-P002]return
+<LGB0380-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1795-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1795-NWPRSW-P002]return
+<LGB1795-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0603-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0603-NWPRSW-P002]return
+<LGB0603-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1443-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1443-NWPRSW-P002]return
+<LGB1443-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1223-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1223-NWPRSW-P002]return
+<LGB1223-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1866-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1866-NWPRSW-P002]return
+<LGB1866-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1850-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1850-NWPRSW-P002]return
+<LGB1850-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1913-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1913-NWPRSW-P002]return
+<LGB1913-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0938-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0938-NWPRSW-P002]return
+<LGB0938-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1268-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1268-NWPRSW-P002]return
+<LGB1268-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1774-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1774-NWPRSW-P002]return
+<LGB1774-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0410-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0410-NWPRSW-P002]return
+<LGB0410-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1844-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1844-NWPRSW-P002]return
+<LGB1844-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1884-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+[LGB1884-NWPRSW-P002]return
+<LGB1884-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0615-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0615-NWPRSW-P002]return
+<LGB0615-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0467-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0467-NWPRSW-P002]return
+<LGB0467-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0927-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB0927-NWPRSW-P002]return
+<LGB0927-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1244-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1244-NWPRSW-P002]return
+<LGB1244-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1437-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1437-NWPRSW-P002]return
+<LGB1437-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1052-NWPRSW-P002]display interface description | i GE0/0/37
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+[LGB1052-NWPRSW-P002]return
+<LGB1052-NWPRSW-P002>

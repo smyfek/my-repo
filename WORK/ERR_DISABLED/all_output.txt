@@ -1,0 +1,87 @@
+
+Output from GB-RWC2NS01.gb.lidl.net
+
+
+Output from GB-RWC2NS02.gb.lidl.net
+
+
+Output from GB-RWC2NS03.gb.lidl.net
+
+
+Output from GB-RWC2NS04.gb.lidl.net
+Gi1/0/42  dot1x-IPSG         err-disabled 2            auto   auto 10/100/1000BaseTX
+
+Output from GB-RWC2NS05.gb.lidl.net
+
+
+Output from GB-RWC2NS06.gb.lidl.net
+
+
+Output from GB-RWC2NS07.gb.lidl.net
+
+
+Output from GB-RWC2NS08.gb.lidl.net
+
+
+Output from GB-RWC2NS09.gb.lidl.net
+
+
+Output from GB-RWC2NS10.gb.lidl.net
+Gi1/0/2   Apple              err-disabled 2            auto   auto 10/100/1000BaseTX
+
+Output from GB-RWC2NS11.gb.lidl.net
+
+
+Output from GB-RWC2NS12.gb.lidl.net
+
+
+Output from GB-RWC2NS13.gb.lidl.net
+
+
+Output from GB-RWC2NS14.gb.lidl.net
+
+
+Output from GB-RWC2NS15.gb.lidl.net
+
+
+Output from GB-RWCNS01.gb.lidl.net
+
+
+Output from GB-RWCNS02.gb.lidl.net
+
+
+Output from GB-RWCNS03.gb.lidl.net
+
+
+Output from GB-RWCNS04.gb.lidl.net
+
+
+Output from GB-RWCNS05.gb.lidl.net
+Fa0/27    GB-WN17            err-disabled 60           auto   auto 10/100BaseTX
+
+Output from GB-RWCNS06.gb.lidl.net
+
+
+Output from GB-RWCNS07.gb.lidl.net
+
+
+Output from GB-RWCNS08.gb.lidl.net
+
+
+Output from GB-RWCNS09.gb.lidl.net
+
+
+Output from GB-RWCNS10.gb.lidl.net
+
+
+Output from GB-RWCNS11.gb.lidl.net
+
+
+Output from GB-RWC3NS01.gb.lidl.net
+
+
+Output from GB-RWC3NS02.gb.lidl.net
+
+Output from lgb-1783nr01.network.gb.lidl.net
+license lines saved ..... to flash:license
+

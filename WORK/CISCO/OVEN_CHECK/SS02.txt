@@ -1,0 +1,70 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0117SS02(config)#do sh int status | i O
+Gi1/0/2   OVEN1              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/3   OVEN2              connected    10         a-full  a-100 10/100/1000BaseTX
+Gi1/0/5   RADIO              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/17  Oven5              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/18  Oven6              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/23  Oven3              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/24  Oven4              notconnect   10           auto   auto 10/100/1000BaseTX
+GB-Service-0117SS02(config)#end
+GB-Service-0117SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0534SS02(config)#do sh int status | i O
+Fa0/2     OVEN1              err-disabled 10           auto   auto 10/100BaseTX
+Fa0/3     OVEN2              err-disabled 10           auto   auto 10/100BaseTX
+Fa0/5     RADIO              notconnect   10           auto   auto 10/100BaseTX
+Fa0/17    Oven5              notconnect   10           auto   auto 10/100BaseTX
+Fa0/18    Oven6              notconnect   10           auto   auto 10/100BaseTX
+Fa0/23    Oven3              notconnect   10           auto   auto 10/100BaseTX
+Fa0/24    Oven4              notconnect   10           auto   auto 10/100BaseTX
+GB-Service-0534SS02(config)#end
+GB-Service-0534SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-1233SS02(config)#do sh int status | i O
+Fa0/2     OVEN1              connected    10         a-full  a-100 10/100BaseTX
+Fa0/3     OVEN2              connected    10         a-full  a-100 10/100BaseTX
+Fa0/5     RADIO              notconnect   10           auto   auto 10/100BaseTX
+Fa0/17    Oven5              notconnect   10           auto   auto 10/100BaseTX
+Fa0/18    Oven6              notconnect   10           auto   auto 10/100BaseTX
+Fa0/23    Oven3              notconnect   10           auto   auto 10/100BaseTX
+GB-Service-1233SS02(config)#end
+GB-Service-1233SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-1516NS02(config)#do sh int status | i O
+Fa0/2     OVEN1              notconnect   10           auto   auto 10/100BaseTX
+Fa0/3     OVEN2              connected    10         a-full  a-100 10/100BaseTX
+Fa0/5     RADIO              notconnect   10           auto   auto 10/100BaseTX
+Fa0/17    Oven5              notconnect   10           auto   auto 10/100BaseTX
+Fa0/18    Oven6              notconnect   10           auto   auto 10/100BaseTX
+Fa0/23    Oven3              notconnect   10           auto   auto 10/100BaseTX
+GB-Service-1516NS02(config)#end
+GB-Service-1516NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-1830SS02(config)#do sh int status | i O
+Gi1/0/2   OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/3   OVEN               connected    10         a-full  a-100 10/100/1000BaseTX
+Gi1/0/5   RADIO              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/17  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/18  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/23  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/24  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+GB-Service-1830SS02(config)#end
+GB-Service-1830SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-1870SS02(config)#do sh int status | i O
+Gi1/0/2   OVEN               connected    10         a-full  a-100 10/100/1000BaseTX
+Gi1/0/3   OVEN               connected    10         a-full  a-100 10/100/1000BaseTX
+Gi1/0/5   RADIO              notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/17  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/18  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/23  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+Gi1/0/24  OVEN               notconnect   10           auto   auto 10/100/1000BaseTX
+GB-Service-1870SS02(config)#end
+GB-Service-1870SS02#

@@ -1,0 +1,30 @@
+[LGB0634-NWPRSW-P001]display interface description | i Tills
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/2                       down    down     Tills
+GE0/0/6                       up      up       Tills
+GE0/0/10                      up      up       Tills
+GE0/0/14                      up      up       Tills
+GE0/0/18                      up      up       Tills
+GE0/0/22                      up      up       Tills
+GE0/0/26                      up      up       Tills
+GE0/0/30                      down    down     Tills
+GE0/0/34                      down    down     Tills
+GE0/0/38                      down    down     Tills
+GE0/0/42                      down    down     Tills
+<LGB0634-NWPRSW-P001>
+[LGB0634-NWPRSW-P002]display interface description | i Tills
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/2                       down    down     Tills
+GE0/0/6                       down    down     Tills
+GE0/0/10                      down    down     Tills
+GE0/0/14                      down    down     Tills
+GE0/0/18                      up      up       Tills
+GE0/0/22                      up      up       Tills
+GE0/0/26                      up      up       Tills
+GE0/0/30                      up      up       Tills
+GE0/0/34                      up      up       Tills
+GE0/0/38                      up      up       Tills
+GE0/0/42                      down    down     Tills
+<LGB0634-NWPRSW-P002>

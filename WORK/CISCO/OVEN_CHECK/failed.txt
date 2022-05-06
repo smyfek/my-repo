@@ -1,0 +1,2 @@
+Failed connect to GB-1516SS01.network.gb.lidl.net
+

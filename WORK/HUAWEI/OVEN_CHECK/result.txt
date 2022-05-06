@@ -1,0 +1,527 @@
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P003]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+[LGB1511-NWPRSW-P003]return
+<LGB1511-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1649-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1649-NWPRSW-P004]return
+<LGB1649-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1686-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1686-NWPRSW-P004]return
+<LGB1686-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1711-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1711-NWPRSW-P004]return
+<LGB1711-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1717-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      down    down     OVEN old - OVEN old
+[LGB1717-NWPRSW-P004]return
+<LGB1717-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1741-NWPRSW-P004]return
+<LGB1741-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1748-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+Interface                     PHY     Protocol Description            
+[LGB1748-NWPRSW-P004]return
+<LGB1748-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1749-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      down    down     OVEN
+[LGB1749-NWPRSW-P004]return
+<LGB1749-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1757-NWPRSW-P004]return
+<LGB1757-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1760-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1760-NWPRSW-P004]return
+<LGB1760-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1773-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1773-NWPRSW-P004]return
+<LGB1773-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1798-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1798-NWPRSW-P004]return
+<LGB1798-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1803-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      down    down     OVEN
+[LGB1803-NWPRSW-P004]return
+<LGB1803-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1819-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1819-NWPRSW-P004]return
+<LGB1819-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1820-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/4                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/17                      down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/18                      down    down     OVEN vlan10 - OVEN vlan10
+[LGB1820-NWPRSW-P004]return
+<LGB1820-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1821-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1821-NWPRSW-P004]return
+<LGB1821-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1825-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      up      up       OVEN
+[LGB1825-NWPRSW-P004]return
+<LGB1825-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1827-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1827-NWPRSW-P004]return
+<LGB1827-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1836-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1836-NWPRSW-P004]return
+<LGB1836-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1838-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1838-NWPRSW-P004]return
+<LGB1838-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1844-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN vlan10 - OVEN vlan10
+GE0/0/4                       down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/17                      down    down     OVEN vlan10 - OVEN vlan10
+GE0/0/18                      down    down     OVEN vlan10 - OVEN vlan10
+[LGB1844-NWPRSW-P004]return
+<LGB1844-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1845-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      down    down     OVEN
+[LGB1845-NWPRSW-P004]return
+<LGB1845-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1861-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1861-NWPRSW-P004]return
+<LGB1861-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1872-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+[LGB1872-NWPRSW-P004]return
+<LGB1872-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1884-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1884-NWPRSW-P004]return
+<LGB1884-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1893-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      down    down     OVEN
+[LGB1893-NWPRSW-P004]return
+<LGB1893-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1895-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1895-NWPRSW-P004]return
+<LGB1895-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1898-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+[LGB1898-NWPRSW-P004]return
+<LGB1898-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1903-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       down    down     OVEN old - OVEN old
+GE0/0/4                       up      up       OVEN old - OVEN old
+GE0/0/17                      down    down     OVEN old - OVEN old
+GE0/0/18                      up      up       OVEN old - OVEN old
+[LGB1903-NWPRSW-P004]return
+<LGB1903-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1926-NWPRSW-P004]display interface description | i OVEN
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/1                       up      up       OVEN
+GE0/0/4                       up      up       OVEN
+GE0/0/17                      down    down     OVEN
+GE0/0/18                      down    down     OVEN
+[LGB1926-NWPRSW-P004]return
+<LGB1926-NWPRSW-P004>

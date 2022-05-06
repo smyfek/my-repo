@@ -1,0 +1,11 @@
+GB-0199NS02.network.gb.lidl.net
+GB-0821NS02.network.gb.lidl.net
+GB-1278NS02.network.gb.lidl.net
+GB-1305NS02.network.gb.lidl.net
+GB-1431NS02.network.gb.lidl.net
+GB-1443NS02.network.gb.lidl.net
+GB-1444NS02.network.gb.lidl.net
+GB-1489NS02.network.gb.lidl.net
+GB-1518NS02.network.gb.lidl.net
+GB-1628NS02.network.gb.lidl.net
+GB-1634NS02.network.gb.lidl.net

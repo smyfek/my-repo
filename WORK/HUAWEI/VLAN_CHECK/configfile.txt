@@ -1,0 +1,1 @@
+display port vlan GigabitEthernet0/0/19

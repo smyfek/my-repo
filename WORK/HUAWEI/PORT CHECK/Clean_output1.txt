@@ -1,0 +1,1450 @@
+[LGB1368-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1368-NWPRSW-P002>
+[LGB1906-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1906-NWPRSW-P002>
+[LGB1856-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1856-NWPRSW-P002>
+[LGB1461-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1461-NWPRSW-P002>
+[LGB1128-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1128-NWPRSW-P002>
+[LGB0025-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0025-NWPRSW-P002>
+[LGB1557-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1557-NWPRSW-P002>
+[LGB1337-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1337-NWPRSW-P002>
+[LGB1791-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1791-NWPRSW-P002>
+[LGB1894-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1894-NWPRSW-P002>
+[LGB0733-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0733-NWPRSW-P002>
+[LGB0350-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0350-NWPRSW-P002>
+[LGB1517-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1517-NWPRSW-P002>
+[LGB1835-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1835-NWPRSW-P002>
+[LGB8888-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB8888-NWPRSW-P002>
+[LGB1332-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1332-NWPRSW-P002>
+[LGB1225-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1225-NWPRSW-P002>
+[LGB1114-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1114-NWPRSW-P002>
+[LGB0570-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0570-NWPRSW-P002>
+[LGB0079-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0079-NWPRSW-P002>
+[LGB1957-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1957-NWPRSW-P002>
+[LGB1696-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1696-NWPRSW-P002>
+[LGB1907-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1907-NWPRSW-P002>
+[LGB1852-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1852-NWPRSW-P002>
+[LGB1231-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1231-NWPRSW-P002>
+[LGB1862-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1862-NWPRSW-P002>
+[LGB0794-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0794-NWPRSW-P002>
+[LGB0578-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0578-NWPRSW-P002>
+[LGB1028-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1028-NWPRSW-P002>
+[LGB1808-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1808-NWPRSW-P002>
+[HUAWEI]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<HUAWEI>
+[LGB1007-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1007-NWPRSW-P002>
+[LGB1364-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1364-NWPRSW-P002>
+[LGB1463-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1463-NWPRSW-P002>
+[LGB0046-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0046-NWPRSW-P002>
+[LGB0521-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0521-NWPRSW-P002>
+[LGB2038-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB2038-NWPRSW-P002>
+[LGB1880-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1880-NWPRSW-P002>
+[LGB0933-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0933-NWPRSW-P002>
+[LGB1426-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1426-NWPRSW-P002>
+[LGB0866-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0866-NWPRSW-P002>
+[LGB0818-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0818-NWPRSW-P002>
+[LGB0199-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0199-NWPRSW-P002>
+[LGB1810-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+<LGB1810-NWPRSW-P002>
+[LGB1897-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1897-NWPRSW-P002>
+[LGB1838-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1838-NWPRSW-P002>
+[LGB1172-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1172-NWPRSW-P002>
+[LGB1177-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1177-NWPRSW-P002>
+[LGB0790-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0790-NWPRSW-P002>
+[LGB1935-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1935-NWPRSW-P002>
+[LGB1834-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1834-NWPRSW-P002>
+[LGB1756-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1756-NWPRSW-P002>
+[LGB1851-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1851-NWPRSW-P002>
+[LGB1278-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1278-NWPRSW-P002>
+[LGB0035-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0035-NWPRSW-P002>
+[LGB0558-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0558-NWPRSW-P002>
+[LGB0607-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0607-NWPRSW-P002>
+[LGB1923-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1923-NWPRSW-P002>
+[LGB1820-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1820-NWPRSW-P002>
+[LGB0602-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0602-NWPRSW-P002>
+[LGB0978-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0978-NWPRSW-P002>
+[LGB1760-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1760-NWPRSW-P002>
+[LGB1956-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1956-NWPRSW-P002>
+[LGB0737-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0737-NWPRSW-P002>
+[LGB1752-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1752-NWPRSW-P002>
+[LGB0403-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0403-NWPRSW-P002>
+[LGB1908-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1908-NWPRSW-P002>
+[LGB1380-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1380-NWPRSW-P002>
+[LGB1064-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1064-NWPRSW-P002>
+[LGB1338-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1338-NWPRSW-P002>
+[LGB1386-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1386-NWPRSW-P002>
+[LGB1754-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1754-NWPRSW-P002>
+[LGB1135-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1135-NWPRSW-P002>
+[LGB1458-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1458-NWPRSW-P002>
+[LGB1124-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1124-NWPRSW-P002>
+[LGB1885-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1885-NWPRSW-P002>
+[LGB0399-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0399-NWPRSW-P002>
+[LGB1946-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1946-NWPRSW-P002>
+[LGB1792-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1792-NWPRSW-P002>
+[LGB1453-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1453-NWPRSW-P002>
+[LGB0395-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0395-NWPRSW-P002>
+[LGB0951-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0951-NWPRSW-P002>
+[LGB1918-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1918-NWPRSW-P002>
+[LGB0815-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0815-NWPRSW-P002>
+[LGB1900-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+<LGB1900-NWPRSW-P002>
+[LGB0634-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0634-NWPRSW-P002>
+[LGB1344-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1344-NWPRSW-P002>
+[LGB0843-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0843-NWPRSW-P002>
+[LGB1709-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1709-NWPRSW-P002>
+[LGB0836-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0836-NWPRSW-P002>
+[LGB1412-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1412-NWPRSW-P002>
+[LGB0853-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0853-NWPRSW-P002>
+[LGB0295-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0295-NWPRSW-P002>
+[LGB0575-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0575-NWPRSW-P002>
+[LGB1928-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1928-NWPRSW-P002>
+[LGB1033-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1033-NWPRSW-P002>
+[LGB0305-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0305-NWPRSW-P002>
+[LGB0826-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0826-NWPRSW-P002>
+[LGB0519-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0519-NWPRSW-P002>
+[LGB1452-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1452-NWPRSW-P002>
+[LGB0391-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0391-NWPRSW-P002>
+[LGB1016-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1016-NWPRSW-P002>
+[LGB1917-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+<LGB1917-NWPRSW-P002>
+[LGB1912-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1912-NWPRSW-P002>
+[LGB0019-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0019-NWPRSW-P002>
+[LGB1929-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1929-NWPRSW-P002>
+[LGB1822-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     UNUSED - Disabled Port
+<LGB1822-NWPRSW-P002>
+[LGB0599-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0599-NWPRSW-P002>
+[LGB1138-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1138-NWPRSW-P002>
+[LGB1793-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1793-NWPRSW-P002>
+[LGB1509-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1509-NWPRSW-P002>
+[LGB1454-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1454-NWPRSW-P002>
+[LGB1767-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1767-NWPRSW-P002>
+[LGB1984-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1984-NWPRSW-P002>
+[LGB1708-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1708-NWPRSW-P002>
+[LGB1301-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1301-NWPRSW-P002>
+[LGB0738-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0738-NWPRSW-P002>
+[LGB1462-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1462-NWPRSW-P002>
+[LGB1096-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1096-NWPRSW-P002>
+[LGB1032-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1032-NWPRSW-P002>
+[LGB1524-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1524-NWPRSW-P002>
+[LGB0629-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0629-NWPRSW-P002>
+[LGB1845-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1845-NWPRSW-P002>
+[LGB1525-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1525-NWPRSW-P002>
+[LGB1898-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1898-NWPRSW-P002>
+[LGB0751-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0751-NWPRSW-P002>
+[LGB1706-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1706-NWPRSW-P002>
+[LGB1248-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1248-NWPRSW-P002>
+[LGB1413-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1413-NWPRSW-P002>
+[LGB1895-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1895-NWPRSW-P002>
+[LGB1327-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1327-NWPRSW-P002>
+[LGB1285-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1285-NWPRSW-P002>
+[LGB1821-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1821-NWPRSW-P002>
+[LGB1859-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1859-NWPRSW-P002>
+[LGB1645-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1645-NWPRSW-P002>
+[LGB1119-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1119-NWPRSW-P002>
+[LGB1029-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1029-NWPRSW-P002>
+[LGB1379-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1379-NWPRSW-P002>
+[LGB1161-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1161-NWPRSW-P002>
+[LGB1506-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1506-NWPRSW-P002>
+[LGB1827-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1827-NWPRSW-P002>
+[LGB1741-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1741-NWPRSW-P002>
+[LGB1910-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1910-NWPRSW-P002>
+[LGB1415-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1415-NWPRSW-P002>
+[LGB1711-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1711-NWPRSW-P002>
+[LGB0075-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0075-NWPRSW-P002>
+[LGB1970-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1970-NWPRSW-P002>
+[LGB0838-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0838-NWPRSW-P002>
+[LGB1062-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1062-NWPRSW-P002>
+[LGB0484-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0484-NWPRSW-P002>
+[LGB1136-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1136-NWPRSW-P002>
+[LGB1649-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1649-NWPRSW-P002>
+[LGB1825-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1825-NWPRSW-P002>
+[LGB1848-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1848-NWPRSW-P002>
+[LGB1930-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1930-NWPRSW-P002>
+[LGB0869-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0869-NWPRSW-P002>
+[LGB1681-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      up      up       DRS
+<LGB1681-NWPRSW-P002>
+[LGB1155-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1155-NWPRSW-P002>
+[LGB0835-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0835-NWPRSW-P002>
+[LGB1811-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     
+<LGB1811-NWPRSW-P002>
+[LGB0471-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0471-NWPRSW-P002>
+[LGB1905-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1905-NWPRSW-P002>
+[LGB1941-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1941-NWPRSW-P002>
+[LGB1106-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1106-NWPRSW-P002>
+[LGB1442-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1442-NWPRSW-P002>
+[LGB0899-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0899-NWPRSW-P002>
+[LGB1867-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1867-NWPRSW-P002>
+[LGB1346-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1346-NWPRSW-P002>
+[LGB0985-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0985-NWPRSW-P002>
+[LGB1976-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1976-NWPRSW-P002>
+[LGB1242-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1242-NWPRSW-P002>
+[LGB0274-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0274-NWPRSW-P002>
+[LGB1909-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1909-NWPRSW-P002>
+[LGB1186-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1186-NWPRSW-P002>
+[LGB0844-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0844-NWPRSW-P002>
+[LGB0184-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0184-NWPRSW-P002>
+[LGB1482-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1482-NWPRSW-P002>
+[LGB0324-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0324-NWPRSW-P002>
+[LGB1757-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1757-NWPRSW-P002>
+[LGB1421-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1421-NWPRSW-P002>
+[LGB1416-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1416-NWPRSW-P002>
+[LGB1915-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1915-NWPRSW-P002>
+[LGB1872-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1872-NWPRSW-P002>
+[LGB0045-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0045-NWPRSW-P002>
+[LGB0781-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0781-NWPRSW-P002>
+[LGB1511-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1511-NWPRSW-P002>
+[LGB1994-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1994-NWPRSW-P002>
+[LGB1773-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     DRS/RVM machine
+<LGB1773-NWPRSW-P002>
+[LGB1424-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1424-NWPRSW-P002>
+[LGB1937-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1937-NWPRSW-P002>
+[LGB1394-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1394-NWPRSW-P002>
+[LGB1317-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1317-NWPRSW-P002>
+[LGB0455-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0455-NWPRSW-P002>
+[LGB0198-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0198-NWPRSW-P002>
+[LGB0366-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0366-NWPRSW-P002>
+[LGB1151-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1151-NWPRSW-P002>
+[LGB1869-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1869-NWPRSW-P002>
+[LGB1265-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1265-NWPRSW-P002>
+[LGB0281-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0281-NWPRSW-P002>
+[LGB1357-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1357-NWPRSW-P002>
+[LGB1794-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1794-NWPRSW-P002>
+[LGB1656-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1656-NWPRSW-P002>
+[LGB1103-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1103-NWPRSW-P002>
+[LGB0513-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0513-NWPRSW-P002>
+[LGB1427-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1427-NWPRSW-P002>
+[LGB1877-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1877-NWPRSW-P002>
+[LGB1455-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1455-NWPRSW-P002>
+[LGB0239-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0239-NWPRSW-P002>
+[LGB1092-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1092-NWPRSW-P002>
+[LGB1903-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1903-NWPRSW-P002>
+[LGB1353-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1353-NWPRSW-P002>
+[LGB0162-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0162-NWPRSW-P002>
+[LGB0133-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0133-NWPRSW-P002>
+[LGB0730-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0730-NWPRSW-P002>
+[LGB1408-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1408-NWPRSW-P002>
+[LGB1803-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1803-NWPRSW-P002>
+[LGB1160-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1160-NWPRSW-P002>
+[LGB1893-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1893-NWPRSW-P002>
+[LGB0827-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0827-NWPRSW-P002>
+[LGB1651-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1651-NWPRSW-P002>
+[LGB0821-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0821-NWPRSW-P002>
+[LGB0461-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0461-NWPRSW-P002>
+[LGB1813-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1813-NWPRSW-P002>
+[LGB1882-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     KVM Rack - KVM Rack
+<LGB1882-NWPRSW-P002>
+[LGB1431-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1431-NWPRSW-P002>
+[LGB1749-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1749-NWPRSW-P002>
+[LGB1717-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1717-NWPRSW-P002>
+[LGB1217-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1217-NWPRSW-P002>
+[LGB1682-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1682-NWPRSW-P002>
+[LGB1901-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1901-NWPRSW-P002>
+[LGB1334-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1334-NWPRSW-P002>
+[LGB1067-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1067-NWPRSW-P002>
+[LGB0564-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0564-NWPRSW-P002>
+[LGB1863-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1863-NWPRSW-P002>
+[LGB1798-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1798-NWPRSW-P002>
+[LGB1721-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1721-NWPRSW-P002>
+[LGB1237-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1237-NWPRSW-P002>
+[LGB1748-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1748-NWPRSW-P002>
+[LGB1926-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1926-NWPRSW-P002>
+[LGB1104-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1104-NWPRSW-P002>
+[LGB0459-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0459-NWPRSW-P002>
+[LGB1995-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1995-NWPRSW-P002>
+[LGB1932-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1932-NWPRSW-P002>
+[LGB1914-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1914-NWPRSW-P002>
+[LGB0577-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0577-NWPRSW-P002>
+[LGB1704-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1704-NWPRSW-P002>
+[LGB1295-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1295-NWPRSW-P002>
+[LGB1806-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1806-NWPRSW-P002>
+[LGB1800-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1800-NWPRSW-P002>
+[LGB1788-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1788-NWPRSW-P002>
+[LGB1755-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1755-NWPRSW-P002>
+[LGB1902-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1902-NWPRSW-P002>
+[LGB1922-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1922-NWPRSW-P002>
+[LGB1855-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1855-NWPRSW-P002>
+[LGB1865-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1865-NWPRSW-P002>
+[LGB1971-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1971-NWPRSW-P002>
+[LGB1819-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1819-NWPRSW-P002>
+[LGB0877-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0877-NWPRSW-P002>
+[LGB1836-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1836-NWPRSW-P002>
+[LGB1075-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1075-NWPRSW-P002>
+[LGB0772-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0772-NWPRSW-P002>
+[LGB1921-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1921-NWPRSW-P002>
+[LGB1535-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1535-NWPRSW-P002>
+[LGB1407-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1407-NWPRSW-P002>
+[LGB0561-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0561-NWPRSW-P002>
+[LGB0421-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0421-NWPRSW-P002>
+[LGB0206-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0206-NWPRSW-P002>
+[LGB1383-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1383-NWPRSW-P002>
+[LGB1391-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1391-NWPRSW-P002>
+[LGB0520-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0520-NWPRSW-P002>
+[LGB0380-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0380-NWPRSW-P002>
+[LGB1795-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1795-NWPRSW-P002>
+[LGB0603-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0603-NWPRSW-P002>
+[LGB1443-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1443-NWPRSW-P002>
+[LGB1223-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1223-NWPRSW-P002>
+[LGB1866-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1866-NWPRSW-P002>
+[LGB1850-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1850-NWPRSW-P002>
+[LGB1913-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1913-NWPRSW-P002>
+[LGB0938-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0938-NWPRSW-P002>
+[LGB1268-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1268-NWPRSW-P002>
+[LGB1774-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1774-NWPRSW-P002>
+[LGB0410-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0410-NWPRSW-P002>
+[LGB1844-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1844-NWPRSW-P002>
+[LGB1884-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      down    down     KVM Transmitter - KVM Transmitter
+<LGB1884-NWPRSW-P002>
+[LGB0615-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0615-NWPRSW-P002>
+[LGB0467-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0467-NWPRSW-P002>
+[LGB0927-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB0927-NWPRSW-P002>
+[LGB1244-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1244-NWPRSW-P002>
+[LGB1437-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1437-NWPRSW-P002>
+[LGB1052-NWPRSW-P002]display interface description | i GE0/0/37
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/37                      *down   down     UNUSED - Disabled Port
+<LGB1052-NWPRSW-P002>

@@ -1,0 +1,5 @@
+do sh int status | i Fa0/34
+!
+do sh int status | i Gi1/0/34
+
+

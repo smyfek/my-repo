@@ -1,0 +1,376 @@
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1511-NWPRSW-P003]return
+<LGB1511-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1741-NWPRSW-P003]return
+<LGB1741-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1757-NWPRSW-P003]return
+<LGB1757-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1511-NWPRSW-P003]return
+<LGB1511-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1741-NWPRSW-P003]return
+<LGB1741-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1757-NWPRSW-P003]return
+<LGB1757-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1511-NWPRSW-P003]return
+<LGB1511-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1741-NWPRSW-P003]return
+<LGB1741-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1757-NWPRSW-P003]return
+<LGB1757-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1811-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1811-NWPRSW-P003]return
+<LGB1811-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1821-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1821-NWPRSW-P003]return
+<LGB1821-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1836-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1836-NWPRSW-P003]return
+<LGB1836-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1884-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1884-NWPRSW-P003]return
+<LGB1884-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1882-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1882-NWPRSW-P003]return
+<LGB1882-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1895-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1895-NWPRSW-P003]return
+<LGB1895-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1649-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1649-NWPRSW-P003]return
+<LGB1649-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1686-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1686-NWPRSW-P003]return
+<LGB1686-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1872-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1872-NWPRSW-P003]return
+<LGB1872-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1717-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1717-NWPRSW-P003]return
+<LGB1717-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1773-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1773-NWPRSW-P003]return
+<LGB1773-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1774-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1774-NWPRSW-P003]return
+<LGB1774-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1903-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1903-NWPRSW-P003]return
+<LGB1903-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1921-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1921-NWPRSW-P003]return
+<LGB1921-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1704-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1704-NWPRSW-P003]return
+<LGB1704-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1902-NWPRSW-P004]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       access       499   -                               
+[LGB1902-NWPRSW-P004]return
+<LGB1902-NWPRSW-P004>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1511-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1511-NWPRSW-P003]return
+<LGB1511-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1741-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1741-NWPRSW-P003]return
+<LGB1741-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1757-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1757-NWPRSW-P003]return
+<LGB1757-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1811-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1811-NWPRSW-P003]return
+<LGB1811-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1821-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1821-NWPRSW-P003]return
+<LGB1821-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1836-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1836-NWPRSW-P003]return
+<LGB1836-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1884-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1884-NWPRSW-P003]return
+<LGB1884-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1882-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1882-NWPRSW-P003]return
+<LGB1882-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1895-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1895-NWPRSW-P003]return
+<LGB1895-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1649-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1649-NWPRSW-P003]return
+<LGB1649-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1686-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1686-NWPRSW-P003]return
+<LGB1686-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1872-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1872-NWPRSW-P003]return
+<LGB1872-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1898-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1898-NWPRSW-P003]return
+<LGB1898-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1717-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1717-NWPRSW-P003]return
+<LGB1717-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1773-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1773-NWPRSW-P003]return
+<LGB1773-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1774-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1774-NWPRSW-P003]return
+<LGB1774-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1844-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1844-NWPRSW-P003]return
+<LGB1844-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1903-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1903-NWPRSW-P003]return
+<LGB1903-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1921-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1921-NWPRSW-P003]return
+<LGB1921-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1704-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1704-NWPRSW-P003]return
+<LGB1704-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1861-NWPRSW-P003]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       trunk        12    10-12
+[LGB1861-NWPRSW-P003]return
+<LGB1861-NWPRSW-P003>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1902-NWPRSW-P004]display port vlan GigabitEthernet0/0/19
+Port                        Link Type    PVID  Trunk VLAN List
+-------------------------------------------------------------------------------
+GigabitEthernet0/0/19       access       499   -                               
+[LGB1902-NWPRSW-P004]return
+<LGB1902-NWPRSW-P004>

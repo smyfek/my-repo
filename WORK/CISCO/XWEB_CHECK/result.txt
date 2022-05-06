@@ -1,0 +1,66 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-0199NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   217          auto   auto 10/100/1000BaseTX
+GB-0199NS02(config)#end
+GB-0199NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-0821NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               connected    1          a-half  a-100 10/100/1000BaseTX
+GB-0821NS02(config)#end
+GB-0821NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1278NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1278NS02(config)#end
+GB-1278NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1305NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1305NS02(config)#end
+GB-1305NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1431NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1431NS02(config)#end
+GB-1431NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1443NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1443NS02(config)#end
+GB-1443NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1444NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1444NS02(config)#end
+GB-1444NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1489NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               connected    1          a-half  a-100 10/100/1000BaseTX
+GB-1489NS02(config)#end
+GB-1489NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1518NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1518NS02(config)#end
+GB-1518NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1628NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1628NS02(config)#end
+GB-1628NS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-1634NS02(config)#do sh int status | i XWEB
+Gi1/0/36  XWEB               notconnect   1            auto   auto 10/100/1000BaseTX
+GB-1634NS02(config)#end
+GB-1634NS02#

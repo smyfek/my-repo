@@ -1,0 +1,49 @@
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1926-NWPRSW-P002]display interface description | i XWEB
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/35                      up      up       XWEB - v108
+[LGB1926-NWPRSW-P002]return
+<LGB1926-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB0046-NWPRSW-P002]display interface description | i XWEB
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+Interface                     PHY     Protocol Description            
+GE0/0/35                      down    down     XWEB - v108
+[LGB0046-NWPRSW-P002]return
+<LGB0046-NWPRSW-P002>
+system-view
+Enter system view, return user view with Ctrl+Z.
+[LGB1749-NWPRSW-P002]display interface description | i XWEB
+PHY: Physical
+*down: administratively down
+#down: LBDT down
+(l): loopback
+(s): spoofing
+(b): BFD down
+(e): ETHOAM down
+(dl): DLDP down
+(lb): LBDT block
+Interface                     PHY     Protocol Description            
+GE0/0/35                      up      up       XWEB - v108
+[LGB1749-NWPRSW-P002]return
+<LGB1749-NWPRSW-P002>

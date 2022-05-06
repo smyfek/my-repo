@@ -1,0 +1,78 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0058NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0058NS01(config)#end
+GB-Service-0058NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0058NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0058NS01(config)#end
+GB-Service-0058NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0067NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0067NS01(config)#end
+GB-Service-0067NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0134NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0134NS01(config)#end
+GB-Service-0134NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0199NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0199NS01(config)#end
+GB-Service-0199NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0202NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0202NS01(config)#end
+GB-Service-0202NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0242NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0242NS01(config)#end
+GB-Service-0242NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0282NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0282NS01(config)#end
+GB-Service-0282NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0288NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0288NS01(config)#end
+GB-Service-0288NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0308NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0308NS01(config)#end
+GB-Service-0308NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0409NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              notconnect   11           auto   auto 10/100BaseTX
+GB-Service-0409NS01(config)#end
+GB-Service-0409NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0412NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0412NS01(config)#end
+GB-Service-0412NS01#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0420NS01(config)#do sh int status  | i ALARM
+Fa0/13    ALARM              connected    11         a-full  a-100 10/100BaseTX
+GB-Service-0420NS01(config)#end
+GB-Service-0420NS01#

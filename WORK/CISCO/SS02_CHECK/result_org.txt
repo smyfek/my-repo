@@ -1,0 +1,63 @@
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0080SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(50)SE5, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(53r)SEY3, RELEASE SOFTWARE (fc1)
+Version ID                      : V04
+Switch Ports Model              SW Version            SW Image                 
+GB-Service-0080SS02(config)#end
+GB-Service-0080SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0117SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E7, RELEASE SOFTWARE (fc3)
+BOOTLDR: C2960X Boot Loader (C2960X-HBOOT-M) Version 15.2(3r)E1, RELEASE SOFTWARE (fc1)
+Version ID                      : V05
+Switch Ports Model                     SW Version            SW Image                 
+GB-Service-0117SS02(config)#end
+GB-Service-0117SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0428SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(50)SE5, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(53r)SEY3, RELEASE SOFTWARE (fc1)
+Version ID                      : V04
+Switch Ports Model              SW Version            SW Image                 
+GB-Service-0428SS02(config)#end
+GB-Service-0428SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0534SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(50)SE5, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(53r)SEY3, RELEASE SOFTWARE (fc1)
+Version ID                      : V04
+Switch Ports Model              SW Version            SW Image                 
+GB-Service-0534SS02(config)#end
+GB-Service-0534SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0568SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(50)SE4, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(53r)SEY3, RELEASE SOFTWARE (fc1)
+Version ID                      : V04
+Switch Ports Model              SW Version            SW Image                 
+GB-Service-0568SS02(config)#end
+GB-Service-0568SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-0592SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960X Software (C2960X-UNIVERSALK9-M), Version 15.2(2)E6, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960X Boot Loader (C2960X-HBOOT-M) Version 15.2(3r)E1, RELEASE SOFTWARE (fc1)
+Version ID                      : V05
+Switch Ports Model                     SW Version            SW Image                 
+GB-Service-0592SS02(config)#end
+GB-Service-0592SS02#
+config term
+Enter configuration commands, one per line.  End with CNTL/Z.
+GB-Service-1021SS02(config)#do sh ver | i Version
+Cisco IOS Software, C2960 Software (C2960-LANLITEK9-M), Version 12.2(50)SE4, RELEASE SOFTWARE (fc1)
+BOOTLDR: C2960 Boot Loader (C2960-HBOOT-M) Version 12.2(53r)SEY3, RELEASE SOFTWARE (fc1)
+Version ID                      : V04
+Switch Ports Model              SW Version            SW Image                 
+GB-Service-1021SS02(config)#end
+GB-Service-1021SS02#

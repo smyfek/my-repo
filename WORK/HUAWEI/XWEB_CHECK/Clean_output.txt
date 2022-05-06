@@ -1,0 +1,13 @@
+[LGB1926-NWPRSW-P002]display interface description | i XWEB
+(o): Observe-port forwarding down
+Interface                     PHY     Protocol Description            
+GE0/0/35                      up      up       XWEB - v108
+<LGB1926-NWPRSW-P002>
+[LGB0046-NWPRSW-P002]display interface description | i XWEB
+Interface                     PHY     Protocol Description            
+GE0/0/35                      down    down     XWEB - v108
+<LGB0046-NWPRSW-P002>
+[LGB1749-NWPRSW-P002]display interface description | i XWEB
+Interface                     PHY     Protocol Description            
+GE0/0/35                      up      up       XWEB - v108
+<LGB1749-NWPRSW-P002>

@@ -1,0 +1,2 @@
+Failed connect to GB-1678ns01.network.gb.lidl.net
+
