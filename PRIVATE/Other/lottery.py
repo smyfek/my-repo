@@ -28,8 +28,10 @@ for i in range (0,2):
 luckystars.sort()
 
 # Display lottery numbers
-print("Your numbers for today are: ")
+print()
+print("Your Euromillions numbers for today are: ")
 print (lotterynumbers)
-
+print()
 print("Your lucky stars are: ")
 print (luckystars)
+print()
