@@ -1,3 +1,3 @@
 # my-repo
 My repositorium
-Learning Python for DevNet
+for learning Python for DevNet
